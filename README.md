@@ -29,6 +29,7 @@ We recommend Python *3.9+*. Install requirements with:
 ```bash
 pip install -r requirements.txt
 ```
+
 ### 3. Run the Notebook
 
 Start Jupyter Notebook:
@@ -125,4 +126,5 @@ Then open a Pull Request.
 📜 License
 
 This project is released under the MIT License.
+
 
