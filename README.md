@@ -1,5 +1,7 @@
 # 🧠 Stroke Prediction using Machine Learning (XGBoost & ANN)
 
+![Project Thumbnail](./Copilot_20250910_125408.png)
+
 This project explores the use of Machine Learning (ML) and Artificial Neural Networks (ANNs) to predict the likelihood of a stroke based on medical and lifestyle factors.
 It leverages XGBoost for gradient boosting and ANNs for deep learning, comparing their performance on a structured health dataset.
 
@@ -126,5 +128,6 @@ Then open a Pull Request.
 📜 License
 
 This project is released under the MIT License.
+
 
 
