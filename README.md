@@ -129,5 +129,21 @@ Then open a Pull Request.
 
 This project is released under the MIT License.
 
+---
+
+## 🎨 Thumbnail Design
+
+The thumbnail combines:
+- A **stylized brain** to represent the medical domain.
+- An **overlaid graph** symbolizing machine learning insights.
+- A **split layout**: one side for XGBoost (tree structure), the other for ANN (neural network).
+- A **color palette** of muted teal and vibrant orange-red for contrast and clarity.
+
+## 🛠️ Installation
+
+```bash
+git clone https://github.com/yourusername/stroke-prediction-ml.git
+cd stroke-prediction-ml
+pip install -r requirements.txt
 
 
